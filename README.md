@@ -28,6 +28,8 @@ Relationships between these entities were established using well-defined Primary
 **Database View**
 <br><br><img width="242" height="400" alt="airlineSystem_databaseView" src="https://github.com/user-attachments/assets/14906212-2517-4b7d-a471-427abbbbb6b8" />
 <br><br>
+
+**GUI**
 <img width="975" height="580" alt="adminForm" src="https://github.com/user-attachments/assets/0d4e0e22-c74b-4a2c-8b16-2d74e79d1d3f" />
 <br><br>
 <img width="975" height="510" alt="userForm" src="https://github.com/user-attachments/assets/42ddb1ae-2966-4ba7-9932-0373b3681587" />
@@ -38,6 +40,8 @@ Relationships between these entities were established using well-defined Primary
 <br><br>
 <img width="975" height="576" alt="boardinPass_table" src="https://github.com/user-attachments/assets/d31b2a4f-ed02-4be5-bbff-1d27b37bcc01" />
 <br><br>
+
+**SQL Query Working**
 <img width="575" height="816" alt="SQL_query" src="https://github.com/user-attachments/assets/5ca4039b-4d5f-4786-b198-616c01f63138" />
 <br><br>
 
