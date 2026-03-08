@@ -1,4 +1,4 @@
-<img width="575" height="816" alt="SQL_query" src="https://github.com/user-attachments/assets/084ee7a4-378d-45c7-99aa-1d76897f9534" /><img width="575" height="816" alt="SQL_query" src="https://github.com/user-attachments/assets/8ef1db67-518e-47cc-971b-6b689186fc31" />## **Overview**
+## **Overview**
 
 This project implements a localized Airline Reservation and Management System based on real-world Pakistani aviation data. The system streamlines the complete lifecycle of airline operations, from flight scheduling and ticket booking to boarding pass generation.
 
