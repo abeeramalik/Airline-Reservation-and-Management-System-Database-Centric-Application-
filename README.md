@@ -23,9 +23,6 @@ Relationships between these entities were established using well-defined Primary
 
 ---
 
-###**ERD**###
-
-
 
 ###**Screenshots**###
 
