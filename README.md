@@ -25,12 +25,19 @@ Relationships between these entities were established using well-defined Primary
 
 ###**Screenshots**###
 <img width="242" height="400" alt="airlineSystem_databaseView" src="https://github.com/user-attachments/assets/14906212-2517-4b7d-a471-427abbbbb6b8" />
+<br><br>
 <img width="975" height="580" alt="adminForm" src="https://github.com/user-attachments/assets/0d4e0e22-c74b-4a2c-8b16-2d74e79d1d3f" />
+<br><br>
 <img width="975" height="510" alt="userForm" src="https://github.com/user-attachments/assets/42ddb1ae-2966-4ba7-9932-0373b3681587" />
+<br><br>
 <img width="975" height="486" alt="employeeForm" src="https://github.com/user-attachments/assets/9a755967-67c5-45b7-9bb4-3def78f683bb" />
+<br><br>
 <img width="719" height="521" alt="airlineTable" src="https://github.com/user-attachments/assets/74b5d3dc-8011-4fcc-8e42-8546ab7389b6" />
+<br><br>
 <img width="975" height="576" alt="boardinPass_table" src="https://github.com/user-attachments/assets/d31b2a4f-ed02-4be5-bbff-1d27b37bcc01" />
+<br><br>
 <img width="575" height="816" alt="SQL_query" src="https://github.com/user-attachments/assets/5ca4039b-4d5f-4786-b198-616c01f63138" />
+<br><br>
 
 
 ### **Normalization**
